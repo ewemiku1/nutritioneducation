@@ -1,3 +1,3 @@
 # nutritioneducation
-Strona poświęcona edukacji żywieniowej
+Strona poświęcona edukacji żywieniowej.
 Już wkrótce więcej :)
